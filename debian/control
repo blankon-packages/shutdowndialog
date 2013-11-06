@@ -1,18 +1,15 @@
-Source: plymouth-theme-blankon
-Section: x11
-Priority: optional
-Maintainer: Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
-Build-Depends: debhelper (>= 7.3.15)
+Source: shutdowndialog
+Section: unknown
+Priority: extra
+Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
+Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
+Homepage: https://github.com/mijortsa/shutdown-dialog
+#Vcs-Git: git://github.com/mijortsa/shutdown-dialog.git
+#Vcs-Browser: https://github.com/mijortsa/shutdown-dialog
 
-Package: plymouth-theme-blankon
-Architecture: any
-Depends: ${misc:Depends}, plymouth, plymouth-x11
-Provides: plymouth-theme
-Replaces: plymouth (<< 0.8.1-1~)
-Description: graphical boot animation theme
- Plymouth is an application that runs very early in the boot process
- (even before the root filesystem is mounted!) that provides a graphical
- boot animation while the boot process happens in the background.
- .
- This package contains the BlankOn splash theme for Plymouth.
+Package: shutdowndialog
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python2.7
+Description: dialog shutdown and logout WM, DM
+ alterante dialog shutdown and logout have fun Manokwari

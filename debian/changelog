@@ -1,18 +1,5 @@
-plymouth-theme-blankon (0.3) suroboyo; urgency=low
+shutdowndialog (0.1) suroboyo; urgency=low
 
-  * debian/postinst:
-    - Fix update-initramfs
+  * Initial release
 
- -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Wed, 26 Jun 2013 08:04:14 +0700
-
-plymouth-theme-blankon (0.2) suroboyo; urgency=low
-
-  * Fix script
-
- -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Mon, 24 Jun 2013 16:00:09 +0700
-
-plymouth-theme-blankon (0.1) suroboyo; urgency=low
-
-  * First release
-
- -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Sat, 15 Jun 2013 23:06:35 +0700
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 06 Nov 2013 15:46:35 +0700

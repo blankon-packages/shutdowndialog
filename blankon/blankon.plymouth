@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=blankon
-Description=blankon-plymouth
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/blankon
-ScriptFile=/usr/share/plymouth/themes/blankon/blankon.script
