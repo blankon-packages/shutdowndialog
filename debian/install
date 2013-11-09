@@ -1,4 +1,3 @@
 *.py /usr/share/shutdowndialog
 shutdowndialog /usr/bin
 logoutdialog /usr/bin
-image /usr/share/shutdowndialog
