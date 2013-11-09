@@ -1,6 +1,7 @@
 shutdowndialog (0.3) suroboyo; urgency=low
 
   * Load icon button from icon-theme default
+  * Added Suspend button session
 
  -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 09 Nov 2013 13:53:02 +0700
 
