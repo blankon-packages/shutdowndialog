@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  logoutdowndialog.py
+#  logoutdialog.py
 #  Versi 2.0
 #  Copyright 2013 Azis Ws <azis.astrojim@surabaya.di.blankon.in>
 #  
