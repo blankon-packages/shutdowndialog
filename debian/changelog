@@ -1,3 +1,9 @@
+shutdowndialog (0.5) suroboyo; urgency=medium
+
+  * repaint dialog
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 14 Dec 2013 22:10:22 +0700
+
 shutdowndialog (0.4) suroboyo; urgency=low
 
   * allowed user access
