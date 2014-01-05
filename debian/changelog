@@ -1,3 +1,9 @@
+shutdowndialog (0.6) suroboyo; urgency=medium
+
+  * Fix size text on shutdowndialog
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Sun, 05 Jan 2014 17:36:09 +0700
+
 shutdowndialog (0.5) suroboyo; urgency=medium
 
   * repaint dialog

@@ -149,7 +149,7 @@ class OBShutdown(object):
         text = gtk.Label('Restart')
         text.modify_fg(gtk.STATE_NORMAL, gtk.gdk.Color('#ccc'))
         text.set_size_request(50, 15)
-        self.box2.pack_start(text, True, True, 40)
+        self.box2.pack_start(text, True, True, 33)
  
         #Hibernate
         hibernate_btn = BiggerButton()
@@ -177,7 +177,7 @@ class OBShutdown(object):
         text = gtk.Label('Shutdown')
         text.modify_fg(gtk.STATE_NORMAL, gtk.gdk.Color('#ccc'))
         text.set_size_request(50, 0)
-        self.box2.pack_start(text, True, True, 40)
+        self.box2.pack_start(text, True, True, 33)
  
         self.window.set_type_hint(gtk.gdk.WINDOW_TYPE_HINT_DIALOG)
         self.window.set_skip_taskbar_hint(True)
