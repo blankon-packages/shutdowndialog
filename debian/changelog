@@ -1,3 +1,9 @@
+shutdowndialog (0.7) tambora; urgency=medium
+
+  * Upload to tambora
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 06 Mar 2014 14:04:21 +0700
+
 shutdowndialog (0.6) suroboyo; urgency=medium
 
   * Fix size text on shutdowndialog
